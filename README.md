@@ -87,10 +87,10 @@ pip install numpy scipy statsmodels scikit-learn matplotlib nolds nolitsa
 - Additional documentation and visual outputs will be added in the final update.
 
 ## Author
-
 Ilias Korompilis
 
 ## License
 
 Academic and educational use only.
+
 
