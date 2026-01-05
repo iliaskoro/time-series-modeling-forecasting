@@ -90,7 +90,7 @@ pip install numpy scipy statsmodels scikit-learn matplotlib nolds nolitsa
 Ilias Korompilis
 
 ## License
-
 Academic and educational use only.
+
 
 
