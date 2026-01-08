@@ -17,7 +17,6 @@ A final report and surrogate-based statistical comparisons will be added in a fu
 - NRMSE evaluation
 
 ### Nonlinear Time Series Analysis
-
 - Time-delay embedding
 - False Nearest Neighbors (FNN)
 - Correlation Dimension (D₂) estimation
@@ -89,6 +88,7 @@ Ilias Korompilis
 
 ## License
 Academic and educational use only.
+
 
 
 
