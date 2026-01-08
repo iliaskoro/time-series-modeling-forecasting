@@ -1,5 +1,4 @@
 # Linear & Nonlinear Time Series Modeling & Forecasting
-
 This repository contains an extensive implementation of both linear and nonlinear time-series analysis techniques applied on real and synthetic datasets.
 The project includes forecasting, dynamical system reconstruction, nonlinear complexity estimation, and comparative modeling approaches.
 
@@ -90,6 +89,7 @@ Ilias Korompilis
 
 ## License
 Academic and educational use only.
+
 
 
 
