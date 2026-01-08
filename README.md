@@ -9,7 +9,6 @@ A final report and surrogate-based statistical comparisons will be added in a fu
 ## Features
 
 ### Linear Time Series Analysis
-
 - Trend and seasonality removal
 - Autocorrelation and partial autocorrelation analysis (ACF/PACF)
 - AR / ARIMA model fitting and diagnostics
@@ -91,6 +90,7 @@ Ilias Korompilis
 
 ## License
 Academic and educational use only.
+
 
 
 
