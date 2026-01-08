@@ -26,7 +26,6 @@ A final report and surrogate-based statistical comparisons will be added in a fu
 - Chaotic data generation (logistic map, Henon map)
 
 ## Datasets
-
 - BTC/USDT cryptocurrency price series
 - Henon map chaotic series
 
@@ -88,6 +87,7 @@ Ilias Korompilis
 
 ## License
 Academic and educational use only.
+
 
 
 
