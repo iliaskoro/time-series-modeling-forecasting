@@ -79,7 +79,6 @@ pip install numpy scipy statsmodels scikit-learn matplotlib nolds nolitsa
 ## Notes
 - The nonlinear pipeline includes both deterministic and stochastic modeling techniques.
 - Real and synthetic data experiments are separated for clarity and reproducibility.
-
 - Additional documentation and visual outputs will be added in the final update.
 
 ## Author
@@ -87,7 +86,6 @@ Ilias Korompilis
 
 ## License
 Academic and educational use only.
-
 
 
 
