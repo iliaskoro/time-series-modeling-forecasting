@@ -86,5 +86,3 @@ Ilias Korompilis
 
 ## License
 Academic and educational use only.
-
-
